@@ -1,0 +1,18 @@
+{
+    "cli": {
+      "version": ">= 0.46.0"
+    },
+    "build": {
+      "android": {
+        "release": {
+          "distribution": "store"
+        }
+      },
+      "ios": {
+        "release": {
+          "distribution": "store"
+        }
+      }
+    }
+  }
+  
